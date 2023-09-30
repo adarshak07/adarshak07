@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, everyone! My name is Adarsh Kumar and I'm from Bihar. I'm currently studying Computer Science Engineering at Chandigarh University, and I hope to become Software Engineer one day. I'm really passionate about Technology, and I'm always looking for new ways to learn and improve my skills.<br>Connect me on Linkedin.
+Hello, everyone! My name is Adarsh Kumar and I'm from Bihar, India. I'm currently studying Computer Science Engineering at Chandigarh University, and I hope to become Software Engineer one day. I'm really passionate about Technology, and I'm always looking for new ways to learn and improve my skills.<br>Connect me on Linkedin.
 
 
 ## 🌐 Socials:
